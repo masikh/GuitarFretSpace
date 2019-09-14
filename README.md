@@ -1,4 +1,4 @@
-## Fender Jaguar, Fender Mustang ***
+## Fender Jaguar, Fender Mustang
 #### Scale length: metric: 610 mm imperial: 24.0 inch
 #### Distance nut to fret:
 
@@ -25,7 +25,7 @@
     Fret: 21	metric: 428.65 mm imperial: 16.86 inch
     Fret: 22	metric: 438.83 mm imperial: 17.27 inch
 
-## Paul Reed Smith Santana Signature series ***
+## Paul Reed Smith Santana Signature series
 #### Scale length: metric: 622 mm imperial: 24.5 inch
 #### Distance nut to fret:
 
@@ -54,7 +54,7 @@
     Fret: 23	metric: 457.26 mm imperial: 18.01 inch
     Fret: 24	metric: 466.50 mm imperial: 18.38 inch
 
-## Most Gibson and Epiphone models ***
+## Most Gibson and Epiphone models
 #### Scale length: metric: 628 mm imperial: 24.75 inch
 #### Distance nut to fret:
 
@@ -81,7 +81,7 @@
     Fret: 21	metric: 441.30 mm imperial: 17.39 inch
     Fret: 22	metric: 451.78 mm imperial: 17.80 inch
 
-## Most PRS, Carvin, and Danelectric models ***
+## Most PRS, Carvin, and Danelectric models
 #### Scale length: metric: 635 mm imperial: 25.0 inch
 #### Distance nut to fret:
 
@@ -108,7 +108,7 @@
     Fret: 21	metric: 446.22 mm imperial: 17.57 inch
     Fret: 22	metric: 456.81 mm imperial: 17.98 inch
 
-## Most Fender, Ibanez, Jackson, Kramer, Schecter, Squier, and Steinberger models ***
+## Most Fender, Ibanez, Jackson, Kramer, Schecter, Squier, and Steinberger models
 #### Scale length: metric: 648 mm imperial: 25.5 inch
 #### Distance nut to fret:
 
@@ -135,7 +135,7 @@
     Fret: 21	metric: 455.35 mm imperial: 17.92 inch
     Fret: 22	metric: 466.16 mm imperial: 18.34 inch
 
-## Most 7 string models by Ibanez, Jackson & Schecter ***
+## Most 7 string models by Ibanez, Jackson & Schecter
 #### Scale length: metric: 673.2 mm imperial: 26.5 inch
 #### Distance nut to fret:
 
@@ -162,7 +162,7 @@
     Fret: 21	metric: 473.06 mm imperial: 18.62 inch
     Fret: 22	metric: 484.29 mm imperial: 19.06 inch
 
-## Standard bass guitards ***
+## Standard bass guitards
 #### Scale length: metric: 863.6 mm imperial: 34.0 inch
 #### Distance nut to fret:
 
