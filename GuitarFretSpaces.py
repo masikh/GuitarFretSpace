@@ -21,7 +21,7 @@ class GuitarFretSpaces:
             'Most PRS, Carvin, and Danelectric models': {'metric': 635, 'imperial': 25.0, 'frets': 22},
             'Most Fender, Ibanez, Jackson, Kramer, Schecter, Squier, and Steinberger models': {'metric': 648, 'imperial': 25.5, 'frets': 22},
             'Most 7 string models by Ibanez, Jackson & Schecter': {'metric': 673.2, 'imperial': 26.5, 'frets': 22},
-            'Standard bass guitards': {'metric': 863.6, 'imperial': 34.0, 'frets': 22}
+            'Standard bass guitars': {'metric': 863.6, 'imperial': 34.0, 'frets': 22}
         }
 
         self.calculate()
