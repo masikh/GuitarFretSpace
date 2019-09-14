@@ -162,7 +162,7 @@
     Fret: 21	metric: 473.06 mm imperial: 18.62 inch
     Fret: 22	metric: 484.29 mm imperial: 19.06 inch
 
-## Standard bass guitards
+## Standard bass guitars
 #### Scale length: metric: 863.6 mm imperial: 34.0 inch
 #### Distance nut to fret:
 
