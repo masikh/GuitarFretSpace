@@ -4,28 +4,28 @@
 Scale length: metric: 610 mm imperial: 24.0 inch
 Distance nut to fret:
 
-Fret:  1	metric:  34.24 mm imperial:  1.35 inch
-Fret:  2	metric:  66.55 mm imperial:  2.62 inch
-Fret:  3	metric:  97.05 mm imperial:  3.82 inch
-Fret:  4	metric: 125.84 mm imperial:  4.95 inch
-Fret:  5	metric: 153.02 mm imperial:  6.02 inch
-Fret:  6	metric: 178.67 mm imperial:  7.03 inch
-Fret:  7	metric: 202.88 mm imperial:  7.98 inch
-Fret:  8	metric: 225.73 mm imperial:  8.88 inch
-Fret:  9	metric: 247.29 mm imperial:  9.73 inch
-Fret: 10	metric: 267.65 mm imperial: 10.53 inch
-Fret: 11	metric: 286.87 mm imperial: 11.29 inch
-Fret: 12	metric: 305.00 mm imperial: 12.00 inch
-Fret: 13	metric: 322.12 mm imperial: 12.67 inch
-Fret: 14	metric: 338.28 mm imperial: 13.31 inch
-Fret: 15	metric: 353.53 mm imperial: 13.91 inch
-Fret: 16	metric: 367.92 mm imperial: 14.48 inch
-Fret: 17	metric: 381.51 mm imperial: 15.01 inch
-Fret: 18	metric: 394.33 mm imperial: 15.51 inch
-Fret: 19	metric: 406.44 mm imperial: 15.99 inch
-Fret: 20	metric: 417.86 mm imperial: 16.44 inch
-Fret: 21	metric: 428.65 mm imperial: 16.86 inch
-Fret: 22	metric: 438.83 mm imperial: 17.27 inch
+    Fret:  1	metric:  34.24 mm imperial:  1.35 inch
+    Fret:  2	metric:  66.55 mm imperial:  2.62 inch
+    Fret:  3	metric:  97.05 mm imperial:  3.82 inch
+    Fret:  4	metric: 125.84 mm imperial:  4.95 inch
+    Fret:  5	metric: 153.02 mm imperial:  6.02 inch
+    Fret:  6	metric: 178.67 mm imperial:  7.03 inch
+    Fret:  7	metric: 202.88 mm imperial:  7.98 inch
+    Fret:  8	metric: 225.73 mm imperial:  8.88 inch
+    Fret:  9	metric: 247.29 mm imperial:  9.73 inch
+    Fret: 10	metric: 267.65 mm imperial: 10.53 inch
+    Fret: 11	metric: 286.87 mm imperial: 11.29 inch
+    Fret: 12	metric: 305.00 mm imperial: 12.00 inch
+    Fret: 13	metric: 322.12 mm imperial: 12.67 inch
+    Fret: 14	metric: 338.28 mm imperial: 13.31 inch
+    Fret: 15	metric: 353.53 mm imperial: 13.91 inch
+    Fret: 16	metric: 367.92 mm imperial: 14.48 inch
+    Fret: 17	metric: 381.51 mm imperial: 15.01 inch
+    Fret: 18	metric: 394.33 mm imperial: 15.51 inch
+    Fret: 19	metric: 406.44 mm imperial: 15.99 inch
+    Fret: 20	metric: 417.86 mm imperial: 16.44 inch
+    Fret: 21	metric: 428.65 mm imperial: 16.86 inch
+    Fret: 22	metric: 438.83 mm imperial: 17.27 inch
 
 *** Paul Reed Smith Santana Signature series ***
 Scale length: metric: 622 mm imperial: 24.5 inch
